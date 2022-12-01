@@ -19,15 +19,15 @@ $git add .
 $git status
 
 # Add Github Username & Emails
-$git config --global user.email "binarytechteam@gmail.com"
-$git config --global user.name "techaung7"
+$git config --global user.email "*********@gmail.com"
+$git config --global user.name "*******"
 
 # Check Github Username & Emails
 $git config user.email
 $git config user.name
 
 # Add Remote Repositories on Git 
-$git remote add origin https://github.com/techaung7/Tahleeweb.git
+$git remote add origin https://github.com/**********
 
 # Check Remote URL
 $git remote -v
